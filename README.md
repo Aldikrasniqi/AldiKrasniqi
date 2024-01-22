@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate with backend devs.
 - ⚡ Fun fact: Im a Downhill biker and League of legends proffesional player.
 
-  <h3>Things I code with</h3>
+<h3>Things I code with</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
