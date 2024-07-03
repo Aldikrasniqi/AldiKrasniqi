@@ -1,7 +1,8 @@
 ### Hi I'm Aldi Krasniqi 
-- 🌱 I’m Learning Serverless,SSR,SSG Development and Next.js at the moment.
-- 👯 I’m looking to collaborate with backend devs.
+- 🌱 I’m learning advanced techniques for performance-driven programming in js at the moment.
 - ⚡ Fun fact: Im a Fisher, Downhill biker and League of legends proffesional player.
+- 👯 I’m looking to collaborate with backend devs.
+- 📂 Reach me: aldikrasniqi5@gmail.com
 
 <h3>Things I code with</h3>
 <p>
