@@ -1,8 +1,43 @@
 ### Hi I'm Aldi Krasniqi 
 - 🌱 I’m learning advanced techniques for performance-driven programming in js at the moment.
 - ⚡ Fun fact: Im a Fisher, Downhill biker and League of legends proffesional player.
-- 👯 I’m looking to collaborate with backend devs.
-- 📂 Reach me: aldikrasniqi5@gmail.com
+
+```
+  function workLifeBalance(task: string, mood: string = 'neutral'): string {
+    /**
+     * A function to balance work and fun for front-end engineers.
+     * 
+     * Args:
+     * - task (string): The task to execute.
+     * - mood (string): Your current mood. Default is 'neutral'.
+     * 
+     * Returns:
+     * - string: A fun yet professional message.
+     */
+    
+    const funEmojis: { [key: string]: string } = {
+        'happy': '😄',
+        'neutral': '😐',
+        'frustrated': '😤'
+    };
+
+    const professionalAdvice: { [key: string]: string } = {
+        'happy': "Awesome! Keep that energy while debugging.",
+        'neutral': "Stay focused, a balanced approach is key.",
+        'frustrated': "Take a deep breath, maybe a walk outside will help."
+    };
+
+    if (!(mood in funEmojis)) {
+        return "Invalid mood! Please choose between 'happy', 'neutral', or 'frustrated'.";
+    }
+
+    return `Task to complete: ${task} ${funEmojis[mood]}. Advice: ${professionalAdvice[mood]}`;
+}
+
+const message: string = workLifeBalance("Refactor the CSS grid layout", "happy");
+console.log(message);
+```
+
 
 <h3>Things I code with</h3>
 <p>
