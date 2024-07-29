@@ -1,18 +1,15 @@
-### Hi I'm Aldi Krasniqi 
-- 🌱 I’m learning advanced techniques for performance-driven programming in js at the moment.
-- ⚡ Fun fact: Im a Fisher, Downhill biker and League of legends proffesional player.
-
+### Hi 👋
 ```
-  function workLifeBalance(task: string, mood: string = 'neutral'): string {
+  function personalTouch(task: string, mood: string = 'neutral'): string {
     /**
-     * A function to balance work and fun for front-end engineers.
+     * A function to add a personal touch for Aldi Krasniqi.
      * 
      * Args:
      * - task (string): The task to execute.
      * - mood (string): Your current mood. Default is 'neutral'.
      * 
      * Returns:
-     * - string: A fun yet professional message.
+     * - string: A personalized message with some fun elements.
      */
     
     const funEmojis: { [key: string]: string } = {
@@ -21,21 +18,22 @@
         'frustrated': '😤'
     };
 
-    const professionalAdvice: { [key: string]: string } = {
-        'happy': "Awesome! Keep that energy while debugging.",
-        'neutral': "Stay focused, a balanced approach is key.",
-        'frustrated': "Take a deep breath, maybe a walk outside will help."
+    const personalAdvice: { [key: string]: string } = {
+        'happy': "Fantastic! Keep that spirit up while you code.",
+        'neutral': "Maintain your balance, whether it's coding or biking downhill.",
+        'frustrated': "Take a break, maybe play a game of League of Legends or go fishing."
     };
 
     if (!(mood in funEmojis)) {
         return "Invalid mood! Please choose between 'happy', 'neutral', or 'frustrated'.";
     }
 
-    return `Task to complete: ${task} ${funEmojis[mood]}. Advice: ${professionalAdvice[mood]}`;
+    return `Task to complete: ${task} ${funEmojis[mood]}. Advice: ${personalAdvice[mood]}`;
 }
 
-const message: string = workLifeBalance("Refactor the CSS grid layout", "happy");
+const message: string = personalTouch("Optimize the JavaScript performance", "happy");
 console.log(message);
+
 ```
 
 
