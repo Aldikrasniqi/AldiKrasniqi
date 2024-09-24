@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" src="mac-test.png"> </p>
+<p align="center"> <img align="center" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png"> </p>
 
 ```js
 export default () => ({
