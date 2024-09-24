@@ -1,42 +1,16 @@
-### Hi 👋
+```js
+export default () => ({
+  Description: "Hi, I'm Aldi. I work on all things Frontend at Stree. Always trying to settle between aesthetics and performance. I love to build things that are beautiful and fast."
+  Portfolio: "aldikrasniqi.tech",
+  Skills: [
+    "Resposive design", "UI/UX Design Principles", "Javascript tester",
+    "Problem Solving", "Leadership", "Rapid Learner" 
+  ],
+  Interest: [
+    "Coding", "Blogging", "Fishing",
+    "Thrilling Downhill Biking", "League of Legends"
+  ]});
 ```
-  function personalTouch(task: string, mood: string = 'neutral'): string {
-    /**
-     * A function to add a personal touch for Aldi Krasniqi.
-     * 
-     * Args:
-     * - task (string): The task to execute.
-     * - mood (string): Your current mood. Default is 'neutral'.
-     * 
-     * Returns:
-     * - string: A personalized message with some fun elements.
-     */
-    
-    const funEmojis: { [key: string]: string } = {
-        'happy': '😄',
-        'neutral': '😐',
-        'frustrated': '😤'
-    };
-
-    const personalAdvice: { [key: string]: string } = {
-        'happy': "Fantastic! Keep that spirit up while you code.",
-        'neutral': "Maintain your balance, whether it's coding or biking downhill.",
-        'frustrated': "Take a break, maybe play a game of League of Legends or go fishing."
-    };
-
-    if (!(mood in funEmojis)) {
-        return "Invalid mood! Please choose between 'happy', 'neutral', or 'frustrated'.";
-    }
-
-    return `Task to complete: ${task} ${funEmojis[mood]}. Advice: ${personalAdvice[mood]}`;
-}
-
-const message: string = personalTouch("Optimize the JavaScript performance", "happy");
-console.log(message);
-
-```
-
-
 <h3>Things I code with</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -55,10 +29,3 @@ console.log(message);
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
-<!--
-**Aldikrasniqi/AldiKrasniqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
