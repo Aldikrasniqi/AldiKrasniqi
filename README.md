@@ -1,3 +1,4 @@
+<p align="center"> <img align="center" src="https://aldikrasniqi.tech/images/setup.jpeg"> </p>
 ```js
 export default () => ({
   Description: "Hi, I'm Aldi. I work on all things Frontend"
