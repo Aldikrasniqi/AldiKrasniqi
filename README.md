@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" src="mac.jpg"> </p>
+<p align="center"> <img align="center" src="mac-test.png"> </p>
 
 ```js
 export default () => ({
