@@ -1,6 +1,6 @@
 ```js
 export default () => ({
-  Description: "Hi, I'm Aldi. I work on all things Frontend at Stree. Always trying to settle between aesthetics and performance. I love to build things that are beautiful and fast."
+  Description: "Hi, I'm Aldi. I work on all things Frontend"
   Portfolio: "aldikrasniqi.tech",
   Skills: [
     "Resposive design", "UI/UX Design Principles", "Javascript tester",
