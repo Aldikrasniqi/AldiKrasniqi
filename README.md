@@ -1,5 +1,4 @@
-<p align="center"> <img align="center" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png"> </p>
-
+<p align="center"> <img align="center" src="mac.jpg"> </p>
 
 ```js
 export default () => ({
@@ -7,13 +6,14 @@ export default () => ({
   Portfolio: "aldikrasniqi.tech",
   Skills: [
     "Resposive design", "UI/UX Design Principles", "Javascript tester",
-    "Problem Solving", "Leadership", "Rapid Learner" 
+    "Problem Solving", "Leadership", "Rapid Learner"
   ],
   Interest: [
     "Coding", "Blogging", "Fishing",
     "Thrilling Downhill Biking", "League of Legends"
   ]});
 ```
+
 <h3>Things I code with</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
