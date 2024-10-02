@@ -3,7 +3,6 @@
 ```js
 export default () => ({
   Description: "Hi, I'm Aldi. I work on all things Frontend"
-  Portfolio: "aldikrasniqi.tech",
   Skills: [
     "Resposive design", "UI/UX Design Principles", "Javascript tester",
     "Problem Solving", "Leadership", "Rapid Learner"
@@ -13,6 +12,8 @@ export default () => ({
     "Thrilling Downhill Biking", "League of Legends"
   ]});
 ```
+
+I occasionally write on https://aldikrasniqi.tech/blog
 
 <h3>Things I code with</h3>
 <p>
