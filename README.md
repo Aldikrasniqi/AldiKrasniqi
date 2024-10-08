@@ -1,4 +1,5 @@
 Hi, I'm Aldi, I work on all things on web (heavy frontend) mostly develop with JavaScript and related stuff (TypeScript, node.js with all sorts of apis (graphql, trpc, rest)).
+I like Test-Driven Development (TDD) so i can know my code not only works but also provides a great user experience.
 
 Also:
 * Workouts or plays strategy games like dota and league of legends for a relax.
