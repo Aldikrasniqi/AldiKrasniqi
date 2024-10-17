@@ -1,6 +1,6 @@
-Hi, I'm Aldi, I work on all things on web (heavy frontend) mostly develop using JavaScript and have experience with almost all frontend frameworks—except Angular, of course! 😄 and related stuff (TypeScript, node.js with all sorts of apis (graphql, trpc, rest)).
-
-I rely on tailwind for the style.
+Hi, I'm Aldi, I work on all things on web (heavy frontend) mostly develop with JavaScript related stuff (TypeScript, node.js with all sorts of apis (graphql, trpc, rest)).
+ 
+I rely on Tailwind for styling, and menaging UI, I prefer using React and Vue with frameworks like Remix and Nuxt.
 
 I like Test-Driven Development (TDD) so i can know my code not only works but also provides a great user experience.
 
