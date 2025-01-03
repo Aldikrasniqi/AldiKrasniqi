@@ -4,6 +4,8 @@ I rely on Tailwind for styling and for menaging UI I prefer using React and Vue 
 
 I like Test-Driven Development (TDD) so i can know my code not only works but also provides a great user experience.
 
+Currently learning UI engineering.
+
 Apart from coding, you'll see me around:
 
 * Hitting the gym daily or riding my downhill bike.
