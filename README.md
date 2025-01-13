@@ -4,7 +4,7 @@ I rely on Tailwind for styling and for menaging UI I prefer using React and Vue 
 
 I like Test-Driven Development (TDD) so i can know my code not only works but also provides a great user experience.
 
-Currently learning UI engineering.
+Currently learning UI engineering and Building a clean frontend with reusable components, just like Lego.
 
 Apart from coding, you'll see me around:
 
