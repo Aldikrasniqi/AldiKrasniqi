@@ -1,4 +1,4 @@
-## Hi, I'm Aldi 👋, 
+## Hi, I'm Aldi 👋
 I work on all things on web (heavy frontend) mostly develop with JavaScript related stuff (TypeScript, node.js with all sorts of apis (graphql, trpc, rest)).
 
 Technically, I prefer:
@@ -9,12 +9,11 @@ Technically, I prefer:
 * Deployment with Vercel, Netlify, or Docker.
 * CI/CD pipelines with GitHub Actions, Jenkins.
 
+Apart from coding, you'll see me around:
+* gym, biking, swimming, snowboarding, and playing league of legends.
+
 Still learning javascript cuz its never enough.
 
-Apart from coding, you'll see me around:
-
-* gym, biking, swimming, snowboarding, and playing league of legends.
-  
 I occasionally write on https://aldikrasniqi.tech/blog
 
 <!---
