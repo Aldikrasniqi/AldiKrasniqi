@@ -1,16 +1,19 @@
-Hi, I'm Aldi, I work on all things on web (heavy frontend) mostly develop with JavaScript related stuff (TypeScript, node.js with all sorts of apis (graphql, trpc, rest)).
- 
-I rely on Tailwind for styling and for menaging UI I prefer using React and Vue often with frameworks like Remix, Next or Nuxt.
+Hi, I'm Aldi 👋, 
+I work on all things on web (heavy frontend) mostly develop with JavaScript related stuff (TypeScript, node.js with all sorts of apis (graphql, trpc, rest)).
 
-I like Test-Driven Development (TDD) so i can know my code not only works but also provides a great user experience.
+More technically I do:  
+ Tailwind for styling.
+ UI development with React and Vue, often with Remix, Next.js, or Nuxt.
+ Test-driven development primarily with Jest, Cypress, and Vitest.
+ APIs with node.js.
+ Deployment with Vercel, Netlify, or Docker.
+ CI/CD pipelines with GitHub Actions, Jenkins.
 
-Currently learning UI engineering and Building a clean frontend with reusable components, just like Lego.
+Still learning javascript cuz its never enough.
 
 Apart from coding, you'll see me around:
 
-* Hitting the gym daily or riding my downhill bike.
-* Swimming in the summer and snowboarding in the winter.
-* Diving into strategy games like Dota or League of Legends in my downtime.
+* gym, biking, swimming, snowboarding, and playing league of legends.
   
 I occasionally write on https://aldikrasniqi.tech/blog
 
