@@ -1,19 +1,13 @@
 Hi, I'm Aldi 👋, 
 I work on all things on web (heavy frontend) mostly develop with JavaScript related stuff (TypeScript, node.js with all sorts of apis (graphql, trpc, rest)).
 
-More technically I do:
-
-Tailwind for styling.
-
-UI development with React and Vue, often with Remix, Next.js, or Nuxt.
-
-Test-driven development primarily with Jest, Cypress, and Vitest.
-
-APIs with node.js.
-
-Deployment with Vercel, Netlify, or Docker.
-
-CI/CD pipelines with GitHub Actions, Jenkins.
+Technically, I prefer:
+* Tailwind for styling.
+* UI development with React and Vue, often with Remix, Next.js, or Nuxt.
+* Test-driven development primarily with Jest, Cypress, and Vitest.
+* APIs with node.js.
+* Deployment with Vercel, Netlify, or Docker.
+* CI/CD pipelines with GitHub Actions, Jenkins.
 
 Still learning javascript cuz its never enough.
 
