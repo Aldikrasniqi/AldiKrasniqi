@@ -1,4 +1,4 @@
-Hi, I'm Aldi 👋, 
+## Hi, I'm Aldi 👋, 
 I work on all things on web (heavy frontend) mostly develop with JavaScript related stuff (TypeScript, node.js with all sorts of apis (graphql, trpc, rest)).
 
 Technically, I prefer:
