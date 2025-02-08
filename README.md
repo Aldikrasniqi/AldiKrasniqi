@@ -1,6 +1,6 @@
 ## Hi, I'm Aldi 👋
 I work on all things on web (heavy frontend) mostly develop with JavaScript related stuff (TypeScript, node.js with all sorts of apis (graphql, trpc, rest)).
-## 
+<!---
 ## Technically, I prefer:
 ## * Tailwind for styling.
 ## * UI development with React and Vue, often with Remix, Next.js, or Nuxt.
@@ -8,6 +8,7 @@ I work on all things on web (heavy frontend) mostly develop with JavaScript rela
 ## * APIs with node.js.
 ## * Deployment with Vercel, Netlify, or Docker.
 ## * CI/CD pipelines with GitHub Actions, Jenkins.
+-->
 
 Apart from coding, you'll see me around:
 * gym, biking, swimming, snowboarding, and playing league of legends.
