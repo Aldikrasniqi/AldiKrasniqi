@@ -1,5 +1,7 @@
 ## Hi, I'm Aldi 👋
-I work on all things on web (heavy frontend) mostly develop with JavaScript related stuff (TypeScript, node.js with all sorts of apis (graphql, trpc, rest)).
+I work around JavaScript, building products that are scalable, accessible, and beautifully crafted. I move fast with prototyping ideas, iterating quickly, and shipping with intention.
+I have a strong design eye and deep understanding of UX principles. 
+
 <!---
 ## Technically, I prefer:
 ## * Tailwind for styling.
