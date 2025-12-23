@@ -17,7 +17,7 @@ Apart from coding, you'll see me around:
 
 Still learning javascript cuz its never enough.
 
-I occasionally write on https://aldikrasniqi.tech/blog
+I occasionally write on https://aldikrasniqi.com/
 
 <!---
 <h3>Things I code with</h3>
